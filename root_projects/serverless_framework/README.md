@@ -1,4 +1,7 @@
-Serverless Framework will go here
+TLDR:
+* Serverless Framework is a **Function as a Service (FaaS)** where you can host a website
+* Very similar to **Platform as a Service (PaaS)** but the main difference is scalability
+* Works with Amazon Web Services (AWS)
 
 Quick start guide I used
 
