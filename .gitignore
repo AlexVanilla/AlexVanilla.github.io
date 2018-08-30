@@ -1,0 +1,11 @@
+node_modules
+npm-debug.log
+.DS_Store
+.env
+
+
+
+# Error Outputs
+.sh.exe.stackdump
+sh.exe.stackdump
+bash.exe.stackdump
