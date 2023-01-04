@@ -19,6 +19,6 @@
   },
   "homepage": "https://github.com/AlexVanilla/AlexVanilla.github.io#readme",
   "devDependencies": {
-    "jest": "^23.5.0"
+    "jest": "^29.3.1"
   }
 }
